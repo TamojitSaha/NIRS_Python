@@ -2,7 +2,8 @@
 """
 Created on Wed Jun 05 17:15:17 2019
 
-@author: Tamojit
+@author: Tamojit Saha
+@website: tamojitsaha.info
 """
 import numpy as np
 from time import sleep
