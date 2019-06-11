@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jun 04 12:15:10 2019
+
+@author: Tamojit Saha
+@website: tamojitsaha.info
+"""
 import serial
 import sys
 import time
